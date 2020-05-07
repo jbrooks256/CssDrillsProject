@@ -17,8 +17,7 @@ h2, p, .readme-wrapper {
 }
 
 .boxes {
-    margin: 2em auto;
-    margin-left: 0em;
+    margin: 1em;
     padding: 1em;
     width: 30em;
     border: 2px solid black;
