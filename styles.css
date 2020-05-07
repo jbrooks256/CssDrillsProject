@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+.readme-wrapper {
+    border: none;
+}
+
+.hyperlink {
+    text-decoration: none ;
+    color: rgb(206, 24, 24);
+}
