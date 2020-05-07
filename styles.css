@@ -40,3 +40,51 @@ h2, p, .readme-wrapper {
     background-color: black;
     border-radius: 50px;
 }
+
+h1 {
+    color: grey;
+}
+
+.original {
+    color: indianred;
+}
+
+.additional {
+    color: indigo;
+}
+
+#show1 {
+    color: lime;
+}
+
+#show2 {
+    color: limegreen;
+}
+
+#show3 {
+    color: mediumaquamarine;
+}
+
+#show4 {
+    color: mediumspringgreen;
+}
+
+#show5 {
+    color: mediumturquoise;
+}
+
+ul {
+    color: orchid;
+}
+
+.star {
+    color: rebeccapurple;
+}
+
+#wars {
+    color: orange;
+}
+
+div {
+    border: 2px solid black;
+}
