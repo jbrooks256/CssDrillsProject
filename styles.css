@@ -15,3 +15,11 @@ h2, p, .readme-wrapper {
     text-decoration: none ;
     color: rgb(206, 24, 24);
 }
+
+.boxes {
+    margin: 2em auto;
+    padding: 1em;
+    width: 30em;
+    border: 2px solid black;
+    border-radius: 5px;
+}
